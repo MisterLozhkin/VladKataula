@@ -1,0 +1,83 @@
+.cardbox{
+    width: 400px; 
+    height: 200px; 
+    background-color: rgb(230, 230, 230); 
+    float: left; 
+    margin-left: 20px; 
+    margin-top: 20px; 
+    clear: both;
+
+}
+.cardboxleftside{
+    width: 400px; 
+    height: 200px; 
+    background-color: rgb(230, 230, 230); 
+    float: left; 
+    margin-left: 20px; 
+    margin-top: 20px;
+}
+#textstyle:before{
+    content: "ℹ️";
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.maincards{
+    width: 400px; 
+    height: 600px; 
+    background-color: rgb(230, 230, 230); 
+    float: left; 
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.gallerycard{
+width: 400px;
+height: 600px; 
+background-color: rgb(230, 230, 230);
+float: left;
+margin-left: 20px;
+margin-top: 20px;
+}
+.navitem{
+    float: right; 
+    margin-right: 20px;
+}
+.levelnone{
+    color:rgb(51, 51, 51)
+}
+.levelbeginner{
+    color:rgb(106, 204, 250)
+}
+.levelsemiintermediate{
+    color:rgb(85, 180, 224)
+}
+.levelintermediate{
+    color:rgb(0, 89, 255)
+}
+.contactbox{
+width: 400px; 
+height: 200px;
+ background-color: rgb(230, 230, 230);
+}
+.halloffame{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.itemoffame{
+    width: 400px;
+     height: 600px;
+      background-color: rgb(230, 230, 230);
+       float: left;
+        margin-left: 20px;
+        margin-top: 20px;
+}
+#textoffame{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#imageoffame{
+    width: 400px;
+ height: 550px;
+}
+#maincolor{
+    background-color: rgb(175, 175, 175);
+}
+#maincolor{
+    background-color: rgb(175, 175, 175);
+}
